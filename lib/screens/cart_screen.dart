@@ -61,7 +61,7 @@ class _CartScreenState extends State<CartScreen> {
                             SizedBox(
                               height: 20,
                             ),
-                            Text('Your cart is empty 😌',
+                            Text('Empty cart 😌',
                                 style:
                                     Theme.of(context).textTheme.headlineSmall),
                             SizedBox(
